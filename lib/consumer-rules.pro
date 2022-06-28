@@ -1,0 +1,1 @@
+-keep class com.worldline.apigouvfr.ban.datasource.response.** {*;}
